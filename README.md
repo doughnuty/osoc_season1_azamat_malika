@@ -1,1 +1,2 @@
-# osoc_season1_azamat_malika
+# OSOC Progress Report
+This repository reflects my progress in OSOC program 
